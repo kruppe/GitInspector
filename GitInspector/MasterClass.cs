@@ -8,5 +8,8 @@ namespace GitInspector
 {
     internal class MasterClass
     {
+        public MasterClass()
+        {
+        }
     }
 }
