@@ -8,9 +8,9 @@ namespace GitInspector
 {
     internal class BranchClass
     {
-        public BranchClass Instance = new BranchClass();
+        public BranchClass Instance = new BranchClass(true);
 
-        private BranchClass()
+        private BranchClass(bool needsIHelloWorldFactory)
         {
         }
     }
