@@ -8,7 +8,9 @@ namespace GitInspector
 {
     internal class BranchClass
     {
-        public BranchClass()
+        public BranchClass Instance = new BranchClass();
+
+        private BranchClass()
         {
         }
     }
