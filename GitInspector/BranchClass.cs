@@ -10,7 +10,7 @@ namespace GitInspector
     {
         public BranchClass Instance = new BranchClass(true);
 
-        private BranchClass(bool needsIHelloWorldFactory)
+        private BranchClass(bool needsIHelloWorldFactory, bool ignoreFactoryRequest = true)
         {
         }
     }
