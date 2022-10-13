@@ -15,5 +15,9 @@ namespace GitInspector.Converters
         public long Build { get; set; }
 
         public static BoolToVisibilityConverter Instance = new BoolToVisibilityConverter();
+
+        public BoolToVisibilityConverter()
+        {
+        }
     }
 }
