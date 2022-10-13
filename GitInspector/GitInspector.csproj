@@ -8,4 +8,8 @@
     <UseWindowsForms>True</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ClassOnBranch.cs" />
+  </ItemGroup>
+
 </Project>
