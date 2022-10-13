@@ -8,5 +8,10 @@ namespace GitInspector.Converters
 {
     internal class BoolToVisibilityConverter
     {
+        public long Version { get; set; }
+
+        public long Revision { get; set; }
+
+        public long Build { get; set; }
     }
 }
