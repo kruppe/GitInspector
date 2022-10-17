@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitInspector
 {
-    internal class TestClass
+    public class TestClass
     {
     }
 }
