@@ -1,3 +1,3 @@
-public class NewFile.cs
+public class NewFile
 {
 }
