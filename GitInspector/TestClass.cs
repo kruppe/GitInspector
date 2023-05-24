@@ -8,6 +8,6 @@ namespace GitInspector
 {
     public class TestClass
     {
-        // Lucas 2 reloaded ab
+        // Lucas 2 reloaded abc
     }
 }
