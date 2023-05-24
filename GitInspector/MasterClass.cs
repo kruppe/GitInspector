@@ -10,7 +10,7 @@ namespace GitInspector
     {
         public MasterClass()
         {
-            // lucas 1 reloaded
+            // lucas 1 reloaded a
         }
     }
 }
